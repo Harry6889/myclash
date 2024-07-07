@@ -1,0 +1,30 @@
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,ifeng.com,DIRECT
+DOMAIN-SUFFIX,ifengimg.com,DIRECT
+
+# MI
+DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,miwifi.com,DIRECT
+
+
+# 国内DNS
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
+IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,219.147.1.66/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,180.76.76.76/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,114.114.115.115/32,no-resolve
+
+
+
