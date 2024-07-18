@@ -1,8 +1,8 @@
 DOMAIN-SUFFIX,xiaoya.pro
 DOMAIN-SUFFIX,docker.com
 DOMAIN-KEYWORD,xiaoya
-DOMAIN,d.skk.moe
-DOMAIN,api.ttt.sh
-DOMAIN,api.ipify.org
+DOMAIN-SUFFIX,d.skk.moe
+DOMAIN-KEYWORD,api.ttt.sh
+DOMAIN-KEYWORD,api.ipify.org
 DOMAIN,clashyun.com
 DOMAIN,a.shlshfm.com
