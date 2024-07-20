@@ -2,18 +2,6 @@ DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
-DOMAIN-SUFFIX,speedtest.cn
-
-# MI
-DOMAIN-SUFFIX,duokan.com
-DOMAIN-SUFFIX,mi-img.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,miui.com
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,xiaomi.net
-DOMAIN-SUFFIX,xiaomicp.com
-DOMAIN-SUFFIX,miwifi.com
-
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
