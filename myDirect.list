@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
+DOMAIN-SUFFIX,cn
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
