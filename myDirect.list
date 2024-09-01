@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,mi.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
