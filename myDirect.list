@@ -18,5 +18,15 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+DOMAIN-SUFFIX,splunk-hec.apple.com
+DOMAIN-SUFFIX,m.hotmail.com
+DOMAIN-SUFFIX,ipv6.music.163.com
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,clients.config.office.net
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,roaming.officeapps.live.com
+DOMAIN-SUFFIX,outlook.office.com
+DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN-SUFFIX,substrate.office.com
 
 
