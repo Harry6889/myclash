@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,mi.com
+DOMAIN,api.mijia.tech
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
