@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN,api.mijia.tech
+DOMAIN-SUFFIX,aisee.tv
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
