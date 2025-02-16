@@ -39,9 +39,6 @@ DOMAIN-SUFFIX,xiaopaitech.com
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,yxixy.com
-IP-CIDR,106.8.151.195/24
-IP-CIDR,49.79.227.131/24
-IP-CIDR,59.82.113.219/24
 DOMAIN-SUFFIX,external-data.qixin.com
 DOMAIN-SUFFIX,app.gsxt.gov.cn
 DOMAIN-SUFFIX,event.adx.adyuedong.com
@@ -56,3 +53,8 @@ DOMAIN-SUFFIX,wn.pos.baidu.com
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,outbrain.com
+DOMAIN,9fum.ifeng.com
+DOMAIN,uww6.ifeng.com
+DOMAIN,bm7c.ifeng.com
+DOMAIN,bdmap1.ifeng.com
+DOMAIN,uww6.ifeng.com
