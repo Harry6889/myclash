@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,uww6.ifeng.com
 DOMAIN-SUFFIX,video.taobao.com
 DOMAIN-SUFFIX,video-sh.cloudvideocdn.taobao.com
+DOMAIN-SUFFIX,guangguang.cloudvideocdn.taobao.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,xhscdn.com
@@ -58,3 +59,14 @@ DOMAIN,uww6.ifeng.com
 DOMAIN,bm7c.ifeng.com
 DOMAIN,bdmap1.ifeng.com
 DOMAIN,uww6.ifeng.com
+
+# Youtube
+DOMAIN-SUFFIX,azabu-u.ac.jp
+DOMAIN-SUFFIX,couchcoaster.jp
+DOMAIN-SUFFIX,delivery.dmkt-sp.jp
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com
+DOMAIN-SUFFIX,nichibenren.or.jp
+DOMAIN-SUFFIX,nicorette.co.kr
+DOMAIN-SUFFIX,ssl-youtube.2cnt.net
+DOMAIN-SUFFIX,youtube.112.2o7.net
+DOMAIN-SUFFIX,youtube.2cnt.net
