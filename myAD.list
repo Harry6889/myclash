@@ -47,13 +47,12 @@ DOMAIN-SUFFIX,e.myhayo.com
 DOMAIN-SUFFIX,ssp.zeroonead.com
 DOMAIN-SUFFIX,streaming.qq.com
 
-DOMAIN-SUFFIX,wn.pos.baidu.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,datagets.cc
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,mime.baidu.com
-DOMAIN-SUFFIX,cpro.baidustatic.com
+DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,pos.baidu.com
 
 DOMAIN-SUFFIX,taboola.com
@@ -62,8 +61,9 @@ DOMAIN-SUFFIX,uww6.ifeng.com
 DOMAIN-SUFFIX,bdmap1.ifeng.com
 DOMAIN-SUFFIX,bm7c.ifeng.com
 DOMAIN-SUFFIX,9fum.ifeng.com
-DOMAIN-SUFFIX,bdmap1.ifeng.com
-DOMAIN-SUFFIX,eclick.baidu.com
+DOMAIN-SUFFIX,ax.ifeng.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,bd3rd.ifeng.com
 DOMAIN-SUFFIX,shankapi.ifeng.com
 DOMAIN-SUFFIX,intercom.com
@@ -72,6 +72,5 @@ DOMAIN-SUFFIX,i.flive.ifeng.com
 DOMAIN-SUFFIX,dsp.djc888.cn
 DOMAIN-SUFFIX,cm.adxvip.com
 DOMAIN-SUFFIX,cm.fastapi.net
-DOMAIN-SUFFIX,static-ssl.mediav.com
-DOMAIN-SUFFIX,show-f.mediav.com
+DOMAIN-SUFFIX,mediav.com
 
