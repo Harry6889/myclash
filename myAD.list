@@ -53,12 +53,25 @@ DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,datagets.cc
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,mime.baidu.com
+DOMAIN-SUFFIX,cpro.baidustatic.com
+DOMAIN-SUFFIX,pos.baidu.com
 
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,outbrain.com
-DOMAIN,9fum.ifeng.com
-DOMAIN,uww6.ifeng.com
-DOMAIN,bm7c.ifeng.com
-DOMAIN,bdmap1.ifeng.com
-
+DOMAIN-SUFFIX,uww6.ifeng.com
+DOMAIN-SUFFIX,bdmap1.ifeng.com
+DOMAIN-SUFFIX,bm7c.ifeng.com
+DOMAIN-SUFFIX,9fum.ifeng.com
+DOMAIN-SUFFIX,bdmap1.ifeng.com
+DOMAIN-SUFFIX,eclick.baidu.com
+DOMAIN-SUFFIX,bd3rd.ifeng.com
+DOMAIN-SUFFIX,shankapi.ifeng.com
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,i.flive.ifeng.com
+DOMAIN-SUFFIX,dsp.djc888.cn
+DOMAIN-SUFFIX,cm.adxvip.com
+DOMAIN-SUFFIX,cm.fastapi.net
+DOMAIN-SUFFIX,static-ssl.mediav.com
+DOMAIN-SUFFIX,show-f.mediav.com
 
