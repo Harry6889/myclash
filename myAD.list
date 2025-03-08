@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,meta.m.taobao.com
-DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mipt.cn
 DOMAIN-SUFFIX,ms1shanghai.cn
 DOMAIN-SUFFIX,myip.la
@@ -9,8 +8,6 @@ DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,ntyy888.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,pubapi9.bizport.cn
 DOMAIN-SUFFIX,putv.qpic.cn
@@ -18,24 +15,18 @@ DOMAIN-SUFFIX,puui.qpic.cn
 DOMAIN-SUFFIX,saxyit.com
 DOMAIN-SUFFIX,sdk.auth.yfp2p.net
 DOMAIN-SUFFIX,sdk.open.talk.igexin.com
-DOMAIN-SUFFIX,shankapi.ifeng.com
 DOMAIN-SUFFIX,sis.jpush.io
-DOMAIN-SUFFIX,skyworthbox.com
-DOMAIN-SUFFIX,skyworthdigitaliot.com
 DOMAIN-SUFFIX,sphdigital.com
 DOMAIN-SUFFIX,tanx.com
 
 DOMAIN-SUFFIX,guangguang.cloudvideocdn.taobao.com
 DOMAIN-SUFFIX,rhdc-acs.m.taobao.com
 
-DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xiaomiyoupin.com
 DOMAIN-SUFFIX,xiaopaitech.com
 DOMAIN-SUFFIX,yangkeduo.com
-DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,yxixy.com
 DOMAIN-SUFFIX,external-data.qixin.com
 DOMAIN-SUFFIX,app.gsxt.gov.cn
@@ -57,22 +48,23 @@ DOMAIN-SUFFIX,pos.baidu.com
 
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,outbrain.com
+
 DOMAIN-SUFFIX,uww6.ifeng.com
 DOMAIN-SUFFIX,bdmap1.ifeng.com
 DOMAIN-SUFFIX,bm7c.ifeng.com
 DOMAIN-SUFFIX,9fum.ifeng.com
 DOMAIN-SUFFIX,ax.ifeng.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,bd3rd.ifeng.com
 DOMAIN-SUFFIX,shankapi.ifeng.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,flive.ifeng.com
+
 DOMAIN-SUFFIX,dsp.djc888.cn
 DOMAIN-SUFFIX,cm.adxvip.com
 DOMAIN-SUFFIX,cm.fastapi.net
 DOMAIN-SUFFIX,mediav.com
-
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,stgowan.com
 DOMAIN-SUFFIX,51gowan.com
 DOMAIN-SUFFIX,sogowan.com
