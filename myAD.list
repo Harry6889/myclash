@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick.com
-DOMAIN-SUFFIX,meta.m.taobao.com
 DOMAIN-SUFFIX,mipt.cn
 DOMAIN-SUFFIX,ms1shanghai.cn
 DOMAIN-SUFFIX,myip.la
@@ -21,8 +20,8 @@ DOMAIN-SUFFIX,tanx.com
 
 DOMAIN-SUFFIX,guangguang.cloudvideocdn.taobao.com
 DOMAIN-SUFFIX,rhdc-acs.m.taobao.com
+DOMAIN-SUFFIX,meta.m.taobao.com
 
-DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiaomiyoupin.com
 DOMAIN-SUFFIX,xiaopaitech.com
@@ -56,9 +55,9 @@ DOMAIN-SUFFIX,9fum.ifeng.com
 DOMAIN-SUFFIX,ax.ifeng.com
 DOMAIN-SUFFIX,bd3rd.ifeng.com
 DOMAIN-SUFFIX,shankapi.ifeng.com
-DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,flive.ifeng.com
 
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,dsp.djc888.cn
 DOMAIN-SUFFIX,cm.adxvip.com
 DOMAIN-SUFFIX,cm.fastapi.net
