@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick.com
-
 DOMAIN-SUFFIX,guangguang.cloudvideocdn.taobao.com
 DOMAIN-SUFFIX,rhdc-acs.m.taobao.com
 DOMAIN-SUFFIX,meta.m.taobao.com
@@ -35,6 +34,8 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,stgowan.com
 DOMAIN-SUFFIX,51gowan.com
 DOMAIN-SUFFIX,sogowan.com
+DOMAIN,safebrowsing.urlsec.qq.com
+
 
 
 
