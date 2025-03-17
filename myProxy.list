@@ -1,6 +1,3 @@
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
-DOMAIN-SUFFIX,ttt.sh
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,metacubex.one
