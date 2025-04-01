@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,pages.dev #nikki
 DOMAIN-SUFFIX,openwrt.ai
-DOMAIN-SUFFIX,dllkids.xyz # dllkids.xyz 及其子域名 op.dllkids.xyz 主要用于提供 OpenWrt 固件和插件的下载服务。​
+DOMAIN-SUFFIX,dllkids.xyz
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,api.ip.sb
