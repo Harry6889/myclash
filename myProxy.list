@@ -18,5 +18,6 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,co.uk
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
-
+DOMAIN-SUFFIX,coreelec.org
+DOMAIN-SUFFIX,kodi.tv
 
