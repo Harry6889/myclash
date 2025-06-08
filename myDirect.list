@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
