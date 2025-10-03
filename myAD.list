@@ -1,3 +1,17 @@
+# YouTube 广告拦截规则 (转换自 ABP 格式)
+
+# Google 广告域
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,pagead.l.doubleclick.net
+
+# 静态广告资源
+DOMAIN-SUFFIX,static.doubleclick.net
+
+# YouTube 特定广告接口
+DOMAIN-KEYWORD,get_midroll
+DOMAIN-KEYWORD,pagead
+
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,guangguang.cloudvideocdn.taobao.com
