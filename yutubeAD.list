@@ -1,0 +1,26 @@
+# YouTube 桌面端广告拦截规则 (小火箭 / Clash)
+
+# 视频流和 midroll 广告
+DOMAIN-KEYWORD,get_midroll
+DOMAIN-KEYWORD,pagead
+DOMAIN-KEYWORD,adformat
+DOMAIN-KEYWORD,adunit
+
+# Google 广告域
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,pagead.l.doubleclick.net
+DOMAIN-SUFFIX,ad.doubleclick.net
+DOMAIN-SUFFIX,static.doubleclick.net
+DOMAIN-SUFFIX,adservice.google.com
+
+# YouTube 特定广告接口（桌面端）
+URL-REGEX,^https?:\/\/.*youtube\.com\/api\/stats/ads
+URL-REGEX,^https?:\/\/.*youtube\.com\/get_midroll
+URL-REGEX,^https?:\/\/.*youtube\.com\/yts/jsbin/.*ad
+URL-REGEX,^https?:\/\/.*googlevideo\.com/.*/ad/
+URL-REGEX,^https?:\/\/.*youtube\.com\/ptracking
+
+# 通用广告路径
+URL-REGEX,^https?:\/\/.*doubleclick\.net/.*
+URL-REGEX,^https?:\/\/.*pagead2\.googlesyndication\.com/.*
