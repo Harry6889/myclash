@@ -1,5 +1,6 @@
 # YouTube 桌面端广告拦截规则 (小火箭 / Clash)
-
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,doubleclick.com
 # 视频流和 midroll 广告
 DOMAIN-KEYWORD,get_midroll
 DOMAIN-KEYWORD,pagead
