@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,sp0.baidu.com
 DOMAIN-SUFFIX,fc2tn.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,ada.baidu.com
+DOMAIN-SUFFIX,hao123.com
 
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,outbrain.com
@@ -42,11 +43,18 @@ DOMAIN-SUFFIX,stgowan.com
 DOMAIN-SUFFIX,51gowan.com
 DOMAIN-SUFFIX,sogowan.com
 
-DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360.net
 DOMAIN-SUFFIX,360.org
+DOMAIN-SUFFIX,360.com
+DOMAIN-SUFFIX,360kuai.com
+DOMAIN-SUFFIX,360safe.com
+DOMAIN-SUFFIX,dhrest.com
+DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,qhstatic.com
+DOMAIN-SUFFIX,qhupdate.com
+DOMAIN-SUFFIX,so.com
 
 
 
