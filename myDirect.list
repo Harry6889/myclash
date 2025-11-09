@@ -19,11 +19,6 @@ DOMAIN,time2.cloud.tencent.com
 DOMAIN-SUFFIX,ntp.org  
 DOMAIN-SUFFIX,pool.ntp.org  
 
-# ==== 节点与订阅 ====
-DOMAIN-SUFFIX,xmrthnode.com  
-DOMAIN-SUFFIX,xmrth.one  
-DOMAIN-SUFFIX,cf.xmrth.one  
-
 # ==== 国内常见直连服务 ====
 DOMAIN-SUFFIX,smtcdns.net  
 
