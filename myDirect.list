@@ -9,25 +9,26 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 
 # ==== 本地及系统服务 ====2025-11-09
-DOMAIN-SUFFIX,lan  
-DOMAIN-SUFFIX,local  
-DOMAIN-SUFFIX,home.arpa  
-DOMAIN,time.windows.com  
-DOMAIN,time.apple.com  
-DOMAIN,time1.cloud.tencent.com  
-DOMAIN,time2.cloud.tencent.com  
-DOMAIN-SUFFIX,ntp.org  
-DOMAIN-SUFFIX,pool.ntp.org  
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,home.arpa
+DOMAIN,time.windows.com
+DOMAIN,time.apple.com
+DOMAIN,time1.cloud.tencent.com
+DOMAIN,time2.cloud.tencent.com
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,pool.ntp.org
 
 # ==== 国内常见直连服务 ====
-DOMAIN-SUFFIX,smtcdns.net  
+DOMAIN-SUFFIX,smtcdns.net
 
 # ==== 系统安全与回环 ====2025-11-09
-DOMAIN,localhost.ptlogin2.qq.com  
-DOMAIN,localhost  
-IP-CIDR,127.0.0.0/8  
-IP-CIDR,0.0.0.0/8  
-IP-CIDR,255.255.255.255/32  
+DOMAIN,localhost.ptlogin2.qq.com
+DOMAIN,localhost
+IP-CIDR,192.168.0.0/16
+IP-CIDR,127.0.0.0/8
+IP-CIDR,0.0.0.0/8
+IP-CIDR,255.255.255.255/32
 
 
 # 国内DNS
