@@ -1,0 +1,61 @@
+# ===========================
+# 云视听小电视（Bilibili TV）专用全直连规则
+# 最关键的：UPOS / Akamai / COS CDN 全部直连
+# ===========================
+
+# ---- UPOS CDN（视频主线路）----
+DOMAIN-KEYWORD,upos
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,upos-sz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,upos-tx-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,upos-cn-mirrorakam.akamaized.net
+
+# ---- Akamai（大量 TV 版视频由此分发）----
+DOMAIN-KEYWORD,akamai
+DOMAIN-KEYWORD,akamaized
+
+# ---- Bilibili 视频 CDN ----
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.net
+
+# ---- Bilibili 图片 CDN（加载封面不卡顿）----
+DOMAIN-SUFFIX,biliimg.com
+
+# ---- HDSL（B站资源主域）----
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,hdslb.org
+
+# ---- B站主域（TV版有少量请求）----
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+
+# ---- B站 App / TV API ----
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biliapi.com
+
+# ---- 辅助域名（播放器心跳/上报）----
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,acgvideo.com
+
+# ---- B站播放器统计上报 ----
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,biligame.com
+
+# ---- B站 CDN 扩展 ----
+DOMAIN-KEYWORD,bili
+DOMAIN-KEYWORD,hdslb
+
+# ---- 直播 CDN（TV 版有时会拉流）----
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+DOMAIN-SUFFIX,live-play.acgvideo.com
+DOMAIN-SUFFIX,live-trace.bilibili.com
+DOMAIN-SUFFIX,live-bvc.bilivideo.com
+
+# ---- 若你的电视启用了 IPv6，则也直连 ----
+IP-CIDR6,::/0
+
+# ===========================
+# 云视听小电视加速 End
+# ===========================
