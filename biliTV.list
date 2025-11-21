@@ -59,3 +59,7 @@ IP-CIDR6,::/0
 # ===========================
 # 云视听小电视加速 End
 # ===========================
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-KEYWORD,cmvideo
+
