@@ -25,10 +25,10 @@ DOMAIN-SUFFIX,smtcdns.net
 # ==== 系统安全与回环 ====2025-11-09
 DOMAIN,localhost.ptlogin2.qq.com
 DOMAIN,localhost
-IP-CIDR,192.168.0.0/16
-IP-CIDR,127.0.0.0/8
-IP-CIDR,0.0.0.0/8
-IP-CIDR,255.255.255.255/32
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,0.0.0.0/8,no-resolve
+IP-CIDR,255.255.255.255/32,no-resolve
 
 
 # 国内DNS
