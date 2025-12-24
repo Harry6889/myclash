@@ -47,8 +47,6 @@ DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,ys7.com
 DOMAIN-SUFFIX,login.microsoftonline.com
 DOMAIN-SUFFIX,in.appcenter.ms
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
 
 ## 📌 2. BT/PT 下载相关关键词及端口
 DOMAIN-KEYWORD,tracker
